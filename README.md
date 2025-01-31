@@ -8,7 +8,7 @@ Deployed Website: https://booky-stergios.netlify.app
 
 ## About The Project
 
-[![Homepage Preview](homepage_preview.png)](https://booky-stergios.netlify.app/)
+[![Homepage Preview](/public/homepage_preview.png)](https://booky-stergios.netlify.app/)
 
 Booky is a React-based web application designed for book lovers to search, filter, and browse books. The application includes features such as:
 - Searching for books by title

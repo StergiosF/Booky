@@ -4,11 +4,11 @@ A book web application built with Vite and React to search, discover, and rate b
 
 ## Deployment
 
-Deployed Website: [link](link)
+Deployed Website: https://booky-stergios.netlify.app
 
 ## About The Project
 
-[![Homepage Preview](homepage_preview.png)](Your Deployment Link Here)
+[![Homepage Preview](/public/homepage_preview.png)](https://booky-stergios.netlify.app/)
 
 Booky is a React-based web application designed for book lovers to search, filter, and browse books. The application includes features such as:
 - Searching for books by title
